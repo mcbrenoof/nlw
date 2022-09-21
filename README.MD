@@ -4,7 +4,7 @@
 
 >Trilha Explorer
 
-Projeto construido do evento next level Next Level Week da Rocketseat
+Projeto construido do evento Next Level Week da Rocketseat
 
 [clique aqui para acessar](https://mcbrenoof.github.io/nlw/)
 
